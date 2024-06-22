@@ -16,7 +16,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on **News_Xpress**
+- 🔭 I’m currently working on **Note_mate**
 - 🌱 I’m currently learning **MERN STACK**
 - 📫 How to reach me **pranjalbajpai30@gmail.com**
 - 
