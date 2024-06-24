@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Pranjal Bajpai</h1>
 <div align="center">
   <img height="151" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
@@ -19,7 +18,7 @@
 - 🔭 I’m currently working on **Note_mate**
 - 🌱 I’m currently learning **MERN STACK**
 - 📫 How to reach me **pranjalbajpai30@gmail.com**
-- 
+
 <h3 align="left">🛠 Language and tools</h3>
 
 <p align="left">
@@ -61,22 +60,15 @@
   </a>
 </p>
 
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pranjalbajpai3030&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
 <h3 align="left">🏆 LeetCode Badges :</h3>
 
 <p align="left">
   <img src="https://leetcode-badge.chyroc.cn/?name=pranjalbajpai30" alt="LeetCode Badge" />
   <img src="https://leetcode-badge.chyroc.cn/?name=pranjalbajpai30&theme=dark" alt="LeetCode Badge Dark Theme" />
 </p>
-
-
-
-
-
-
-
