@@ -66,8 +66,4 @@
   <img src="https://streak-stats.demolab.com?user=Pranjalbajpai3030&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<h3 align="left">🏆 LeetCode Badges :</h3>
 
-<p align="left">
- <img src="https://leetcode-badge-showcase.vercel.app/api?username={Pranjalbajpai30}" alt="LeetCode Badges"/>
-</p>
