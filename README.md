@@ -69,6 +69,5 @@
 <h3 align="left">🏆 LeetCode Badges :</h3>
 
 <p align="left">
-  <img src="https://leetcode-badge.chyroc.cn/?name=pranjalbajpai30" alt="LeetCode Badge" />
-  <img src="https://leetcode-badge.chyroc.cn/?name=pranjalbajpai30&theme=dark" alt="LeetCode Badge Dark Theme" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=pranjalbajpai30" alt="LeetCode Badge" />
 </p>
