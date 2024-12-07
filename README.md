@@ -1,73 +1,93 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:1E90FF&height=250&section=header&text=Hi,%20I'm%20Pranjal!&fontSize=60&fontColor=ffffff)
 
+---
+
+# **Pranjal Bajpai's GitHub Profile**  
+
+
+
+<!-- Trophy Section -->
 <p align="center">
-<a href="https://github.com/PranjalBajpai">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranjalBajpai&theme=onestar&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Pranjal's Trophies"/>
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranjalbajpai3030&theme=onedark&column=-1" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- **3rd Year CSE (Data Science)** student with a passion for Competitive Programming, Web Development, and Backend Systems.  
-- Honored as a **'Wonder Women' in HackOn with Amazon 2024**, ranking among the top 50 women coders.
-- Team **ThinkTankTitans**, excelling in innovative tech solutions.  
-- Skilled in **React.js, C++, and backend frameworks**, building real-world applications like **Pro-Vitals** and a virtual clothing try-on app.
+![](https://visitor-badge.glitch.me/badge?page_id=Pranjalbajpai3030.Pranjalbajpai3030)  
 
 ---
 
-### 🛠️ Tech Stack
+<!-- Header Section -->
+<p align="center">
+  <img src="https://socialify.git.ci/Pranjalbajpai3030/Pranjalbajpai3030/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Pranjalbajpai3030" width="700" height="300" />
+</p>
 
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+## **About Me**  
+- **Name:** Pranjal Bajpai  
+- **Location:** Tamil Nadu, India  
+- **Education:**  
+  - B.Tech in Computer Science & Engineering - SRM Institute of Science and Technology (CGPA: 9.62/10)  
+
+---
+
+## **Skills & Tools**  
+
+### **Programming Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### Frontend & Styling
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **Front-End Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Backend & Databases
+### **Back-End Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🏆 LeetCode Stats
-
-> **Total Problems Solved**: *(Data not available live)*  
-You can view my [LeetCode profile](https://leetcode.com/u/Pranjalbajpai30/) for detailed performance and achievements.
+### **Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🌐 Activity Dashboards
-
-#### GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=PranjalBajpai&theme=blueberry&hide_border=true&custom_title=My%20Contribution%20Graph)
-
-#### Coding Statistics
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PranjalBajpai&layout=compact&theme=blue-green)
+## **Experience**  
+- **Front-End Developer Intern** - Prodigy Infotech (Jan 2024 - Feb 2024)  
+- **Cybersecurity Intern** - Palo Alto (Sept 2023 - Nov 2023)  
 
 ---
 
-### 📊 Project Highlights
-
-- **Pro-Vitals**: Smart health monitoring with real-time analytics.
-- **Virtual Clothing Try-On**: A dynamic platform allowing users to create outfits interactively.
+## **Projects**  
+- [**News Express:**](https://github.com/Pranjalbajpai3030/News_Express) Modern news website built with React.js.  
+- [**Accident Alert System:**](https://github.com/Pranjalbajpai3030/AI-ACCIDENT-DETECTION-MODEL) CNN model for accident detection using CCTV footage.  
+- [**Note Mate:**](https://github.com/Pranjalbajpai3030/note_mate) Note management app with CRUD functionalities.  
 
 ---
 
-### 🎵 Mood Board
+## **Achievements**  
+- Solved over 200 LeetCode questions ([Profile](https://leetcode.com/u/Pranjalbajpai30/))  
+- Earned 5-star badges on HackerRank ([Profile](https://www.hackerrank.com/profile/pb6523))  
 
+---
+
+<!-- Social Links -->
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pranjalbajpai30&cover_image=true&theme=default&bar_color_cover=true"/>
+  <a href="http://www.linkedin.com/in/pranjal-bajpai30">
+    <img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  </a>
 </p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0000FF&height=120&section=footer)
+<!-- Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranjalbajpai3030&theme=github-dark-dimmed&custom_title=Pranjal%20Bajpai's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- LeetCode Stats -->
+## **LeetCode Stats**  
+![](https://leetcard.jacoblin.cool/Pranjalbajpai30?ext=heatmap)
