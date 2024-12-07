@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:1E90FF&height=250&section=header&text=Hi,%20I'm%20Rahima!&fontSize=60&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:1E90FF&height=250&section=header&text=Hi,%20I'm%20Pranjal!&fontSize=60&fontColor=ffffff)
 
 <p align="center">
-<a href="https://github.com/RahimaKhan">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahimaKhan&theme=onestar&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Rahima's Trophies"/>
+<a href="https://github.com/PranjalBajpai">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranjalBajpai&theme=onestar&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Pranjal's Trophies"/>
 </a>
 </p>
 
@@ -48,10 +48,10 @@ You can view my [LeetCode profile](https://leetcode.com/u/Pranjalbajpai30/) for 
 ### 🌐 Activity Dashboards
 
 #### GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=RahimaKhan&theme=blueberry&hide_border=true&custom_title=My%20Contribution%20Graph)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=PranjalBajpai&theme=blueberry&hide_border=true&custom_title=My%20Contribution%20Graph)
 
 #### Coding Statistics
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RahimaKhan&layout=compact&theme=blue-green)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PranjalBajpai&layout=compact&theme=blue-green)
 
 ---
 
