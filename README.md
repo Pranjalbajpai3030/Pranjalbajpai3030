@@ -4,7 +4,7 @@
 
 # **Pranjal Bajpai's GitHub Profile**  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranjalbajpai3030&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjalbajpai3030" /> </p>
 
 <!-- Trophy Section -->
 <p align="center">
@@ -91,4 +91,3 @@
 <!-- LeetCode Stats -->
 ## **LeetCode Stats**  
 ![](https://leetcard.jacoblin.cool/Pranjalbajpai30?ext=heatmap)
-.github/workflows/profile-views.yml:
