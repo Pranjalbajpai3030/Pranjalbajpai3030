@@ -73,7 +73,7 @@
 - Earned 5-star badges on HackerRank ([Profile](https://www.hackerrank.com/profile/pb6523))  
 
 ---
-
+![](https://github-contributor-stats.vercel.app/api?username=Pranjalbajpai3030&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <!-- Social Links -->
 <p align="center">
   <a href="http://www.linkedin.com/in/pranjal-bajpai30">
